@@ -1,0 +1,34 @@
+tutorial 3
+in vscode
+es7 react / redux / graphQL
+live server
+sublime babel
+
+
+tutorial 4
+one root element
+className insted of class
+https://babeljs.io/setup#installation => in browser
+
+{ write js code inside it }
+
+tutorial 6
+react development tool
+
+
+tutorial 7
+onClick
+onMouseOver
+onCopy
+
+
+tutorial 8
+to get state in the methods
+we need to use arrow functions
+
+to change state property
+this.setState()
+
+
+tutorial 9
+e.target.value
