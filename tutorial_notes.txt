@@ -31,4 +31,15 @@ this.setState()
 
 
 tutorial 9
+e.preventDefault()
 e.target.value
+
+<input /> => jsx closing rules should be followed
+
+
+tutorial 10
+
+to create react app
+npx create-react-app my-app
+cd my-app
+npm start
