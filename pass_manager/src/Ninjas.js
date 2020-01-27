@@ -1,7 +1,5 @@
-  
   import React, { Component } from 'react'
   import Button from '@material-ui/core/Button';
-
 
   class Ninjas extends Component{
     render(){
@@ -25,5 +23,5 @@
           )
         }
       }
-      
+          
       export default Ninjas
