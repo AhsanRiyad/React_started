@@ -14,11 +14,12 @@ class App extends Component {
     return (
      
       <div className="App">
-      <Appbar/>
+      <Appbar></Appbar>
         <h1>My first React app</h1>
         <Ninjas ninjas={this.state.ninjas}/>
-      </div>
       
+      </div>
+
     );
   }
 }
