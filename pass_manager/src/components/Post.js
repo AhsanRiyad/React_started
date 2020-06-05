@@ -37,7 +37,6 @@ const mapStateToProps = (state, ownProps) => {
     }
 }
 
-
 const mapDispatchToProps = (dispatch) => {
     return { deletePost: (id) => { dispatch(deletePost(1)) } }
 }

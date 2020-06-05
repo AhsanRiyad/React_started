@@ -1,0 +1,4 @@
+install router and redux
+
+npm install redux react-redux
+npm install react-router-dom
